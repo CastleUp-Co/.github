@@ -60,4 +60,4 @@
 ### Контакты
 
 * 🌐 [**Company Website**](https://csi.kz/)
-* 📧 [**Email**](m.kosolapov@smartderek.kz)
+* 📧 [**Email:**] m.kosolapov@smartderek.kz
